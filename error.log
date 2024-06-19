@@ -1,0 +1,361 @@
+{"level":"error"}
+{"level":"error","message":"Schema for table sys_schema not found"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'schema')"}
+{"level":"error","message":"unknown format \"date-time\" ignored in schema at path \"#/properties/datum\""}
+{"level":"error","message":"unknown format \"date-time\" ignored in schema at path \"#/properties/datum\""}
+{"level":"error","message":"unknown format \"datetime\" ignored in schema at path \"#/properties/datum\""}
+{"level":"error","message":"Validation failed: data must have required property 'id'"}
+{"level":"error","message":"Validation failed: data must have required property 'id'"}
+{"level":"error","message":"Validation failed: data must have required property 'betrag'"}
+{"level":"error","message":"Validation failed: data/datum must match format \"date-time\""}
+{"level":"error","message":"Validation failed: data/datum must match format \"date-time\""}
+{"level":"error","message":"Failed to create record: Collection name must be a String"}
+{"level":"error","message":"Failed to create record: Validation failed: data must be object"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"systemSchemas.map is not a function"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Um eine vollständige Buchung anzulegen, fehlen noch folgende Informationen: 'description' (Beschreibung der Buchung), 'category' (Kategorie der Buchung), und 'user' (Benutzer, der die Buchung vornimmt). Bitte geben Sie diese Infos an, damit der neue Datensatz erstellt werden kann."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Die Angaben zum Datum (date) fehlen im gewünschten Format (YYYY-MM-DD), um einen neuen Datensatz zu erstellen. Bitte geben Sie das Datum im richtigen Format an."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Es fehlen noch folgende Informationen, um die gewünschte Buchung vollständig zu erstellen: 'category' und 'description'. Bitte geben Sie diese Informationen an, zum Beispiel: 'category' (z. B. 'Subscription') und 'description' (z. B. 'Monthly Amazon Prime payment')."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Die gewünschten Informationen reichen nicht aus, um den Datensatz zu erstellen. Folgende Informationen fehlen: \n1. Kategorie der Buchung \n2. Beschreibung der Buchung \n3. Ein AWS-unique identifier, falls erforderlich \nBitte ergänze diese Informationen, um den Datensatz zu vervollständigen."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Es fehlen noch folgende Informationen, um den Datensatz zu erstellen: 1) der Name des Buchungsstellers und 2) eine Beschreibung oder Kategorie der Buchung. Bitte geben Sie diese Details an, um fortzufahren."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Es fehlen noch bestimmte Informationen zur Erstellung der Buchung. Bitte geben Sie folgendes an: Buchungsbeschreibung, Währung, Kategorie, und gegebenenfalls eine Notiz."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Bitte geben Sie die nachstehenden zusätzlichen Informationen an, um den neuen Eintrag zu erstellen: \n1. `soll` - Die Soll-Konto Nummer \n2. `haben` - Die Haben-Konto Nummer"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Die Informationen fehlen noch für die folgenden erforderlichen Felder: 'soll', 'haben', 'datum (im Format date-time)'. Hier sind die aktuellen Informationen, die Sie bereitgestellt haben: 'betrag': 10. Bitte ergänzen Sie noch die fehlenden Informationen."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: To create the new record, the following information is still needed:\n- 'soll': The account to be debited\n- 'haben': The account to be credited\n- 'datum': The date and time in the format 'YYYY-MM-DDTHH:MM:SSZ'\n- 'beschreibung': A brief description of the transaction"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Einige Informationen fehlen, um den gewünschten neuen Datensatz zu erstellen. Bitte geben Sie die folgenden erforderlichen Informationen an:\n\n1. Soll (sollte ein numerischer Wert sein)\n2. Haben (sollte ein numerischer Wert sein)\n3. Beschreibung (sollte eine Zeichenkette sein)\n\nBereits vorhandene Informationen:\n- Betrag: 10\n- Datum: [heutiges Datum im Date-Time-Format]"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: Um die gewünschte Buchung anzulegen, fehlen folgende Informationen: 'soll' und 'haben'. Bitte geben Sie an, ob dieser Betrag auf ein 'soll'-Konto oder ein 'haben'-Konto verbucht werden soll."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: The following information is still missing to create the desired new record: \n1. Property 'soll': A numerical value is required. \n2. Property 'haben': A numerical value is required."}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: soll,haben"}
+{"level":"error","message":"Failed to create record: Validation failed: data/soll must be number"}
+{"level":"error","message":"Failed to create record: Validation failed: data/soll must be number"}
+{"level":"error","message":"Failed to create record: Validation failed: data/soll must be number"}
+{"level":"error","message":"Failed to create record: Validation failed: data/soll must be number"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: undefined"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: undefined"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: betrag"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: soll,haben"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: soll,haben,beschreibung"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: betrag"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: betrag"}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"Object couldnt be created due to insufficient Information: undefined"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'command')"}
+{"level":"error","message":"400 'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'."}
+{"level":"error","message":"No fitting table found"}
+{"level":"error","message":"Failed to create record: Collection names cannot be empty"}
+{"level":"error","message":"Failed to create record: Collection names cannot be empty"}
+{"level":"error","message":"Failed to create record: Collection names cannot be empty"}
+{"level":"error","message":"buchung couldnt be created due to insufficient Information: [\"betrag\",\"datum\"]"}

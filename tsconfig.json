@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",               
+    "module": "CommonJS",                
+    "lib": ["ESNext", "DOM"],                 
+    "moduleResolution": "node",         
+    "esModuleInterop": true,           
+    "skipLibCheck": true,              
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "resolveJsonModule": true,         
+    "experimentalDecorators": true,   
+    "emitDecoratorMetadata": true     
+  },
+  "include": ["**/*.ts", "server.ts", "dbtools.ts", "aitools.ts", "basictools.ts", "twitter.ts"],
+  "exclude": ["node_modules"]
+}
